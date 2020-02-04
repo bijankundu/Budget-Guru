@@ -154,6 +154,9 @@ body {
 .add__description { width: 25rem;}
 .add__value { width: 6.25rem;}
 
+.add__btn .material-icons{
+    font-size: 2.1875rem;
+}
 .add__btn {
     font-size: 2.1875rem;
     background: none;
